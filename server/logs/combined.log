@@ -1,0 +1,239 @@
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:21:35:2135"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:21:59:2159"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:21:59:2159"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:21:59:2159"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:21:59:2159"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:21:59:2159"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:21:59:2159"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:22:01:221"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:22:01:221"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:22:01:221"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 20:22:09:229","userAgent":"curl/8.7.1"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":1,"status":"healthy","timestamp":"2025-08-14 20:22:09:229"}
+{"ip":"::1","level":"info","message":"GET /","timestamp":"2025-08-14 20:22:41:2241","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-08-14 20:23:08:238","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 20:32:27:3227","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":6,"status":"healthy","timestamp":"2025-08-14 20:32:27:3227"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 20:33:12:3312","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 20:36:13:3613","userAgent":"curl/8.7.1"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":6,"status":"healthy","timestamp":"2025-08-14 20:36:13:3613"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 20:36:13:3613"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:43:33:4333"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:43:33:4333"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:43:33:4333"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 20:43:50:4350","userAgent":"curl/8.7.1"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":1,"status":"healthy","timestamp":"2025-08-14 20:43:50:4350"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 20:44:41:4441","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":3,"status":"healthy","timestamp":"2025-08-14 20:44:41:4441"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 20:45:08:458","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 20:49:31:4931"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:49:32:4932"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:49:32:4932"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 20:49:40:4940"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:49:41:4941"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:49:41:4941"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:49:49:4949"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:49:49:4949"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:49:49:4949"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 20:51:29:5129","userAgent":"curl/8.7.1"}
+{"category":"前端开发","level":"info","maxQuestions":5,"message":"Crawling interview questions:","targetSites":["nowcoder"],"timestamp":"2025-08-14 20:51:29:5129"}
+{"level":"info","message":"Starting crawl for category:","timestamp":"2025-08-14 20:51:29:5129"}
+{"level":"info","message":"Crawled 0 questions from nowcoder","timestamp":"2025-08-14 20:52:44:5244"}
+{"level":"info","message":"Crawl completed in 75204ms, found 0 questions","timestamp":"2025-08-14 20:52:44:5244"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 20:53:59:5359","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":0,"status":"healthy","timestamp":"2025-08-14 20:53:59:5359"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 20:54:53:5453","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"category":"运维开发","keywords":[],"level":"info","maxQuestions":20,"message":"Crawling interview questions:","targetSites":["nowcoder","csdn","juejin"],"timestamp":"2025-08-14 20:54:53:5453"}
+{"level":"info","message":"Starting crawl for category:","timestamp":"2025-08-14 20:54:53:5453"}
+{"level":"info","message":"Crawled 0 questions from csdn","timestamp":"2025-08-14 20:54:53:5453"}
+{"level":"info","message":"Crawled 0 questions from juejin","timestamp":"2025-08-14 20:54:53:5453"}
+{"level":"info","message":"Crawled 0 questions from nowcoder","timestamp":"2025-08-14 20:54:53:5453"}
+{"level":"info","message":"Crawl completed in 85ms, found 0 questions","timestamp":"2025-08-14 20:54:53:5453"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 20:58:04:584"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:58:05:585"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:58:05:585"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 20:58:44:5844"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 20:58:45:5845"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 20:58:45:5845"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 20:58:45:5845"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 20:58:56:5856","userAgent":"curl/8.7.1"}
+{"category":"前端开发","level":"info","maxQuestions":5,"message":"Crawling interview questions:","targetSites":["nowcoder","csdn"],"timestamp":"2025-08-14 20:58:56:5856"}
+{"level":"info","message":"Starting crawl for category:","timestamp":"2025-08-14 20:58:56:5856"}
+{"level":"info","message":"Crawled 0 questions from csdn","timestamp":"2025-08-14 20:59:46:5946"}
+{"level":"error","message":"Nowcoder crawl error: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=%E5%89%8D%E7%AB%AF%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n","name":"TimeoutError","stack":"page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=%E5%89%8D%E7%AB%AF%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n\n    at InterviewCrawlerService.crawlNowcoder (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:249:18)\n    at InterviewCrawlerService.crawlSiteWithKeyword (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:232:25)\n    at InterviewCrawlerService.crawlSite (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:207:44)\n    at InterviewCrawlerService.crawlQuestions (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:148:27)\n    at /Users/longhuijiang/Documents/code/interview/interview-system/server/src/routes/interview.ts:47:20","timestamp":"2025-08-14 21:00:16:016"}
+{"level":"error","message":"Nowcoder crawl error: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=javascript%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n","name":"TimeoutError","stack":"page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=javascript%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n\n    at InterviewCrawlerService.crawlNowcoder (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:249:18)\n    at InterviewCrawlerService.crawlSiteWithKeyword (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:232:25)\n    at InterviewCrawlerService.crawlSite (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:207:44)\n    at InterviewCrawlerService.crawlQuestions (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:148:27)\n    at /Users/longhuijiang/Documents/code/interview/interview-system/server/src/routes/interview.ts:47:20","timestamp":"2025-08-14 21:00:48:048"}
+{"level":"info","message":"Crawled 0 questions from nowcoder","timestamp":"2025-08-14 21:00:49:049"}
+{"level":"info","message":"No questions found from crawling, using fallback sample data","timestamp":"2025-08-14 21:00:49:049"}
+{"level":"info","message":"Crawl completed in 113220ms, found 0 questions","timestamp":"2025-08-14 21:00:49:049"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 21:01:41:141","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":0,"status":"healthy","timestamp":"2025-08-14 21:01:41:141"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 21:02:08:28","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"category":"运维开发","keywords":[],"level":"info","maxQuestions":20,"message":"Crawling interview questions:","targetSites":["nowcoder","csdn","juejin"],"timestamp":"2025-08-14 21:02:08:28"}
+{"level":"info","message":"Returning cached results for:","timestamp":"2025-08-14 21:02:08:28"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 21:18:15:1815"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 21:18:16:1816"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 21:18:16:1816"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 21:18:16:1816"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 21:21:01:211","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":0,"status":"healthy","timestamp":"2025-08-14 21:21:01:211"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 21:21:10:2110","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"category":"运维开发","keywords":[],"level":"info","maxQuestions":20,"message":"Crawling interview questions:","targetSites":["nowcoder","csdn","juejin"],"timestamp":"2025-08-14 21:21:10:2110"}
+{"level":"info","message":"Returning cached results for:","timestamp":"2025-08-14 21:21:10:2110"}
+{"ip":"::1","level":"info","message":"GET /api/health","timestamp":"2025-08-14 21:21:43:2143","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"level":"info","message":"Health check completed","redisStatus":"connected","responseTime":9,"status":"healthy","timestamp":"2025-08-14 21:21:43:2143"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 21:22:19:2219","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
+{"category":"运维开发","keywords":[],"level":"info","maxQuestions":20,"message":"Crawling interview questions:","targetSites":["nowcoder","csdn","juejin"],"timestamp":"2025-08-14 21:22:19:2219"}
+{"level":"info","message":"Returning cached results for:","timestamp":"2025-08-14 21:22:19:2219"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-14 21:26:13:2613"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 21:26:13:2613"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-14 21:26:13:2613"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-14 21:26:13:2613"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-14 21:26:13:2613"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-14 21:26:13:2613"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-14 21:26:13:2613"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-14 21:26:14:2614"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-14 21:26:14:2614"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-14 21:26:14:2614"}
+{"ip":"::1","level":"info","message":"POST /api/interview/crawl","timestamp":"2025-08-14 21:28:35:2835","userAgent":"curl/8.7.1"}
+{"category":"运维开发","level":"info","maxQuestions":3,"message":"Crawling interview questions:","targetSites":["nowcoder"],"timestamp":"2025-08-14 21:28:35:2835"}
+{"level":"info","message":"Starting crawl for category:","timestamp":"2025-08-14 21:28:35:2835"}
+{"level":"error","message":"Nowcoder crawl error: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=%E8%BF%90%E7%BB%B4%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n","name":"TimeoutError","stack":"page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=%E8%BF%90%E7%BB%B4%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n\n    at InterviewCrawlerService.crawlNowcoder (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:249:18)\n    at InterviewCrawlerService.crawlSiteWithKeyword (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:232:25)\n    at InterviewCrawlerService.crawlSite (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:207:44)\n    at InterviewCrawlerService.crawlQuestions (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:148:27)\n    at /Users/longhuijiang/Documents/code/interview/interview-system/server/src/routes/interview.ts:47:20","timestamp":"2025-08-14 21:29:06:296"}
+{"level":"error","message":"Nowcoder crawl error: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=devops%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n","name":"TimeoutError","stack":"page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.nowcoder.com/discuss/tag/639?keyword=devops%20%E9%9D%A2%E8%AF%95\", waiting until \"networkidle\"\u001b[22m\n\n    at InterviewCrawlerService.crawlNowcoder (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:249:18)\n    at InterviewCrawlerService.crawlSiteWithKeyword (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:232:25)\n    at InterviewCrawlerService.crawlSite (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:207:44)\n    at InterviewCrawlerService.crawlQuestions (/Users/longhuijiang/Documents/code/interview/interview-system/server/src/services/InterviewCrawlerService.ts:148:27)\n    at /Users/longhuijiang/Documents/code/interview/interview-system/server/src/routes/interview.ts:47:20","timestamp":"2025-08-14 21:29:38:2938"}
+{"level":"info","message":"Crawled 0 questions from nowcoder","timestamp":"2025-08-14 21:29:41:2941"}
+{"level":"info","message":"No questions found from crawling, using fallback sample data","timestamp":"2025-08-14 21:29:41:2941"}
+{"level":"info","message":"Crawl completed in 65166ms, found 0 questions","timestamp":"2025-08-14 21:29:41:2941"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:18:10:1810"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:18:10:1810"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:18:29:1829"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:18:30:1830"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:18:30:1830"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:30:1930"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:19:30:1930"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:19:33:1933"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:34:1934"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:19:34:1934"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:19:40:1940"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:41:1941"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:19:41:1941"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:19:47:1947"}
+{"dbPath":"/Users/longhuijiang/Documents/code/interview/interview-system/server/data/interview_system.db","level":"info","message":"Database connection initialized","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Database tables created successfully","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-15 12:19:47:1947"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:19:47:1947"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:20:50:2050"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:20:50:2050"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:20:50:2050"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:20:51:2051"}
+{"dbPath":"/Users/longhuijiang/Documents/code/interview/interview-system/server/data/interview_system.db","level":"info","message":"Database connection initialized","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Database tables created successfully","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-15 12:20:51:2051"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:20:51:2051"}
+{"level":"info","message":"Received shutdown signal, closing server...","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Initializing Playwright browser...","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Redis rate limiter connected successfully","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-15 12:20:55:2055"}
+{"dbPath":"/Users/longhuijiang/Documents/code/interview/interview-system/server/data/interview_system.db","level":"info","message":"Database connection initialized","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Database tables created successfully","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2025-08-15 12:20:55:2055"}
+{"env":"development","level":"info","message":"🚀 Server started successfully","port":3001,"timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Playwright browser initialized successfully","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Interview crawler initialized","timestamp":"2025-08-15 12:20:55:2055"}
+{"level":"info","message":"Browser initialized successfully","timestamp":"2025-08-15 12:20:55:2055"}
